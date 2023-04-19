@@ -23,4 +23,4 @@ Mencione as ferramentas que você usou para criar seu projeto
 Esse projeto foi inspirado no "Manual do DEV" - https://www.youtube.com/watch?v=SjtdH3dWLa8
 
 ---
-⌨️ com ❤️ por [Rúbia Ribeiro] 😊
+⌨️ com ❤️ por [Rúbia Ribeiro] 😊 
