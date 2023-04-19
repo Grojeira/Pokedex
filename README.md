@@ -17,6 +17,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * HTML5
 * CSS3
 * JavaScript
+* API - PokeAPI | https://pokeapi.co/
 
 ## ✒️ Autores
 
